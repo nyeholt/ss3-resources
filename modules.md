@@ -101,7 +101,7 @@ This is a curated list of interesting SS3 modules. I'll try my best to keep it u
 | Module | Notes |
 |:---|:---|
 | [SilverTicket](https://github.com/cam-findlay/silvertripe-silverticket) | |
-| [SilverTwit](https://github.com/silverstripe-australia/silvertwit) | An entire project. Probably some good examples on a SS3 web app |
+| [SilverSocial](https://github.com/silverstripe-australia/silversocial) | An entire project. Probably some good examples on a SS3 web app |
 
 
 ## Candidates for SS3 Upgrade
